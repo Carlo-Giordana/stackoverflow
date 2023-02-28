@@ -1,7 +1,7 @@
 
 ### Table of Contents
 
-0. [Fork] (#fork)
+0. [Fork](#fork)
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
